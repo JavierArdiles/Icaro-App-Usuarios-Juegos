@@ -1,6 +1,6 @@
-Clase de repaso
+<h1>Clase de repaso</h1>
 
-Contamos con una lista de usuarios de una página de videojuegos. Crear, en archivos separados, las siguientes funciones, exportarlas y, desde el archivo app.js, invocarlas y ver sus resultados en consola. Sobreescribir la lista las veces que sea necesario.
+Contamos con una lista de <strong>usuarios</strong> de una página de videojuegos. Crear, en archivos separados, las siguientes funciones, exportarlas y, desde el archivo app.js, invocarlas y ver sus resultados en consola. Sobreescribir la lista las veces que sea necesario.
 ````
     1- Crear una función que me devuelva la lista completa de usuarios con todos sus datos, dentro de un array de JS.
     2- Crear una función que me permita reescribir la lista de usuarios.
