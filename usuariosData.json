@@ -28,22 +28,6 @@
     ]
   },
   {
-    "name": "Eugenia",
-    "lastname": "Suarez",
-    "age": 26,
-    "country": "Argentina",
-    "email": "eugesuarez@gmail.com",
-    "username": "laChina",
-    "userActive": false,
-    "games": [
-      "The Sims 4",
-      "My Time at Portia",
-      "Pokémon",
-      "Watchdogs 2",
-      "Fortnite"
-    ]
-  },
-  {
     "name": "Dario",
     "lastname": "Barassi",
     "age": 30,
